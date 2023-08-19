@@ -1,5 +1,15 @@
 body{
     /*short*/
-    background-image: url(./assets/bg-mobile.jpg) ;
+    background-image: url(./assets/bg-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
 
+}
+
+#container{
+    width: 365px;
+    height: 712px;
+    border: 1px solid red;
+    margin: auto;
 }
